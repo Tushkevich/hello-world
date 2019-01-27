@@ -1,2 +1,3 @@
 # hello-world
-github guide
+Hi
+My name is Tushkevich, im the best!
